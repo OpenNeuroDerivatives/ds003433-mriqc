@@ -1,0 +1,88 @@
+[0;34mREMORA Notification: [0;34m  GPU monitoring is active, but not on this node type. [0m 
+Launcher: Setup complete.
+
+------------- SUMMARY ---------------
+   Number of hosts:    4
+   Working directory:  /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc
+   Processes per host: 4
+   Total processes:    16
+   Total jobs:         18
+   Scheduling method:  dynamic
+
+-------------------------------------
+Launcher: Starting parallel tasks...
+Launcher: Task 0 running job 2 on c163-032.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 1 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.1 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.1)
+Launcher: Task 3 running job 1 on c163-032.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 0 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.0 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.0)
+Launcher: Task 11 running job 3 on c163-034.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 2 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.2 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.2)
+Launcher: Task 14 running job 4 on c163-041.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 3 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.3 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.3)
+Launcher: Task 4 running job 5 on c163-033.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 4 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.4 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.4)
+Launcher: Task 6 running job 6 on c163-033.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 5 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.5 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.5)
+Launcher: Task 15 running job 7 on c163-041.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 6 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.6 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.6)
+Launcher: Task 2 running job 8 on c163-032.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 7 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.7 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.7)
+Launcher: Task 12 running job 9 on c163-041.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 8 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.8 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.8)
+Launcher: Task 5 running job 10 on c163-033.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 9 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.9 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.9)
+Launcher: Task 10 running job 11 on c163-034.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 10 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.10 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.10)
+Launcher: Task 13 running job 12 on c163-041.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 11 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.11 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.11)
+Launcher: Task 7 running job 13 on c163-033.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 12 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.12 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.12)
+Launcher: Task 8 running job 14 on c163-034.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 13 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.13 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.13)
+Launcher: Task 1 running job 15 on c163-032.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 14 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.14 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.14)
+Launcher: Task 9 running job 16 on c163-034.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 15 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.15 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.15)
+Launcher: Job 8 completed in 1160 seconds.
+Launcher: Task 2 running job 17 on c163-032.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 16 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.16 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.16)
+Launcher: Job 6 completed in 1197 seconds.
+Launcher: Task 6 running job 18 on c163-033.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/runscript 17 >/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stdout.17 2>/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/.reproman/jobs/local/20221130-000633-dfe1/stderr.17)
+Launcher: Job 12 completed in 1220 seconds.
+Launcher: Task 13 done. Exiting.
+Launcher: Job 15 completed in 1224 seconds.
+Launcher: Task 1 done. Exiting.
+Launcher: Job 1 completed in 1254 seconds.
+Launcher: Task 3 done. Exiting.
+Launcher: Job 9 completed in 1259 seconds.
+Launcher: Task 12 done. Exiting.
+Launcher: Job 10 completed in 1301 seconds.
+Launcher: Task 5 done. Exiting.
+Launcher: Job 2 completed in 1388 seconds.
+Launcher: Task 0 done. Exiting.
+Launcher: Job 7 completed in 1435 seconds.
+Launcher: Task 15 done. Exiting.
+Launcher: Job 3 completed in 1443 seconds.
+Launcher: Task 11 done. Exiting.
+Launcher: Job 16 completed in 1424 seconds.
+Launcher: Task 9 done. Exiting.
+Launcher: Job 13 completed in 1474 seconds.
+Launcher: Task 7 done. Exiting.
+Launcher: Job 11 completed in 1541 seconds.
+Launcher: Task 10 done. Exiting.
+Launcher: Job 5 completed in 1628 seconds.
+Launcher: Task 4 done. Exiting.
+Launcher: Job 14 completed in 1971 seconds.
+Launcher: Task 8 done. Exiting.
+Launcher: Job 17 completed in 1304 seconds.
+Launcher: Task 2 done. Exiting.
+Launcher: Job 4 completed in 2663 seconds.
+Launcher: Task 14 done. Exiting.
+Launcher: Job 18 completed in 1463 seconds.
+Launcher: Task 6 done. Exiting.
+Launcher: Done. Job exited without errors
+
+
+
+
+
+=============================== REMORA SUMMARY ===============================
+ Max Virtual  Memory Per Node :    65.14 GB
+ Max Physical Memory Per Node :    36.14 GB
+ Available Memory at time 0.0 :   177.68 GB
+ Total Elapsed Time           :  0d 0h 44m 30s 239ms
+------------------------------------------------------------------------------
+ Max IO Load / home1          :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch1       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch2       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / scratch3       :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+ Max IO Load / work2          :       0 IOPS       0 RD(MB/S)       0 WR(MB/S)
+==============================================================================
+ Sampling Period              : 10 seconds
+ Report Directory             : R=/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/mriqc/ds003433-mriqc/remora_5022290
+ Google Plots HTML Index Page : $R/remora_summary.html
+==============================================================================
+
